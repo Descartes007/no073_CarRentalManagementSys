@@ -40,8 +40,11 @@ Python+Vue3前后端分离汽车租赁管理系统【带文档】：前端 Vue3 
 
 
 ## 运行截图
+
+### 论文截图
 ![](screenshot/1.png)
 
+### 程序截图
 ![](screenshot/2.png)
 
 ![](screenshot/3.png)
